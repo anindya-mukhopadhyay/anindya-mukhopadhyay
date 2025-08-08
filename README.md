@@ -24,8 +24,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=anindya-mukhopadhyay&icon=5&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![UPI](anindyamukhopadhyay69@ibl) 
+  ## 💰 You can help me by Donating UPI
+  (anindyamukhopadhyay69@ibl) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
