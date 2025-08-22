@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on: **AI-Based Budget Tracker & Engineering College Attendance System**<br>- 🌱 I’m currently learning: **React Native, OpenCV, and AI Integration for Real-World Applications**<br>- 👯 I’m looking to collaborate on: **AI, ML, EdTech, Medicinal Plant Detection, and Hackathon Projects**<br>- 🤝 I’m open to help with: **Web & Mobile Development, Firebase Integration, and Smart AI Features**<br>- 📫 How to reach me: **youanindya1@gmail.com**<br>- 🏆 Fun Fact: I’m a **Hackathon Enthusiast** — recently bagged 2nd place at DevRush 🚀<br>
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anindya_iitm/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anindya-mukhopadhy/) 
 
