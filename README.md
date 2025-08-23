@@ -18,11 +18,6 @@ I’m currently working on: **AI-Based Budget Tracker & Engineering College Atte
   <img alt="github-snake" src="github-user-contribution.svg" />
 </picture>
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anindya-mukhopadhyay&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
