@@ -50,14 +50,6 @@
   </table>
 
 # Git Stats 📊
-  
-  <table>
-   <tr>
-      <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ash310u&theme=tokyo-night&point=bb9af7&line=bb9af7&area=true&area_color=bb9af7&hide_border=true" alt="GitHub Activity Graph"/>
-       </td>
-     </tr>
-  </table>
   <table>
     <tr>
       <td>
