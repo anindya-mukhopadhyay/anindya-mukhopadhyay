@@ -35,7 +35,7 @@
       </td>
      <td>
         <img 
-         src="https://github-readme-stats.vercel.app/api?username=anindya-mukhopadhyay&theme=hartreuse_dark&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
+         src="https://github-readme-stats.vercel.app/api?username=anindya-mukhopadhyay&theme=blue-green&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
       </td>
      </tr>
   </table>
