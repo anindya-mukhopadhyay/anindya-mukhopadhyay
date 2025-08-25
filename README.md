@@ -73,9 +73,7 @@
    <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ash310u&theme=tokyonight" alt="GitHub Summarry Card"/>
    </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash310u&theme=tokyonight&layout=donut&hide_border=true" alt="Top Languages"/>
-      </td>
+      
     
   </table>
 ---
