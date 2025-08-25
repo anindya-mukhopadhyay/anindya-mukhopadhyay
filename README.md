@@ -69,13 +69,6 @@
       </td>
      </tr>
   </table>
-  <table>
-   <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ash310u&theme=tokyonight" alt="GitHub Summarry Card"/>
-   </td>
-      
-    
-  </table>
 ---
 
 ## 🌐 Connect with Me
