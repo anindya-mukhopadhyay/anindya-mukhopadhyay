@@ -30,7 +30,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=anindya-mukhopadhyay&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=anindya-mukhopadhyay&theme=blue-green&hide_border=true" alt="GitHub Streak"/>
       </td>
      <td>
         <img 
