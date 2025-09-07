@@ -1,8 +1,6 @@
 
 #Love for All
-<p align="center">
-  <img src="a3y6hp.gif" width="400" height="250" alt="Cool Animation" />
-</p>
+
 💫 About Me:
 
 🔭 I’m currently working on:
