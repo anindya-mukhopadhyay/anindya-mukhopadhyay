@@ -16,8 +16,6 @@
 📫 How to reach me: youanindya1@gmail.com
 🏆 Fun Fact: I’m a 6x Hackathon Winner & 12x Finalist
 
-[![](https://visitcount.itsvg.in/api?id=anindya-mukhopadhyay&label=Profile%20Views&color=4&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
 # Git Stats 📊
   
 <table>
