@@ -12,7 +12,7 @@
 👯 I’m looking to collaborate on: AI, ML, EdTech, Web3, and Hackathon Projects
 🤝 I’m open to help with: Web & Mobile Development, Firebase, AI Features, and Game Dev (R3F/Unity)
 📫 How to reach me: youanindya1@gmail.com
-🏆 Fun Fact: I’m a 6x Hackathon Winner & 12x Finalist
+🏆 Fun Fact: I’m a 6x Hackathon Winner & 13x Finalist
 
 # Git Stats 📊
   
