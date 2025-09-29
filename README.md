@@ -16,6 +16,11 @@
 📫 How to reach me: youanindya1@gmail.com
 🏆 Fun Fact: I’m a 7x Hackathon Winner & 13x Finalist
 
+## 🛠️ Tech Stack & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,reactnative,nodejs,express,python,flask,tailwind,aws,git,github,linux,docker,mongodb,postgres&perline=9" />
+</p>
+
 # Git Stats 📊
   
 <table>
