@@ -13,12 +13,12 @@
 🌱 I’m currently learning: React Native, OpenCV, AI Integration, and SwiftUI
 👯 I’m looking to collaborate on: AI, ML, EdTech, Web3, and Hackathon Projects
 🤝 I’m open to help with: Web & Mobile Development, Firebase, AI Features, and Game Dev (R3F/Unity)
-📫 How to reach me: youanindya1@gmail.com
+
 🏆 Fun Fact: I’m a 7x Hackathon Winner & 13x Finalist
 
 ## 🛠️ Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,reactnative,nodejs,express,python,flask,tailwind,aws,git,github,linux,docker,mongodb,postgres&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,next,python,flask,tailwind,aws,git,github,linux,swift,mongodb,mysql,docker,postgres&perline=9" />
 </p>
 
 # Git Stats 📊
