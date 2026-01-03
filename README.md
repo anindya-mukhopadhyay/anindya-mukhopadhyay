@@ -1,8 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anindya-mukhopadhyay&label=Profile%20views&color=00ff00&style=flat" alt="anindya-mukhopadhyay" /> </p>
+ <p align="center">
+  <img id="github" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21tMDlxdmhxNDdjNHA4NHI3MHFkeGRkOXp3OXI4Z2c2ZHJhM2xtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nUFNPdfvN4d3qdkepB/giphy.gif" width="500">
+ 
 
 
 <p align="center">
-  <img src="a3y6hp.gif" alt="Demo GIF" width="400">
+  <img src="a3y6hp.gif" alt="Demo GIF" width="00">
 </p>
 #Love for All
 
@@ -19,16 +22,6 @@
 
 🏆 Fun Fact: I’m a 7x Hackathon Winner & 13x Finalist
 ## **Tools and technologies**
-<p align="left">
-  <img id="torch" src="https://media.giphy.com/media/8eulZm5OYnM8hdjlHb/giphy.gif" width="100">
-  <img id="docker" src="https://media.giphy.com/media/GudLvkVqOqkT7l4vKC/giphy.gif" width="100">
-  <img id="vs" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  <img id="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-  <img id="tf" src="https://media.giphy.com/media/BtUG0yeT6pICwdBfxA/giphy.gif" width="100">
-  <img id="opencv" src="https://media.giphy.com/media/5tW1VWpaKjfzz1d0gF/giphy.gif" width="100">
-  <img id="react" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-</p>
-
 
 
 ## 🛠️ Tech Stack & Tools  
