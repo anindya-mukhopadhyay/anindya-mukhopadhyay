@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anindya-mukhopadhyay&label=Profile%20views&color=00ff00&style=flat" alt="anindya-mukhopadhyay" /> </p>
  <p align="center">
-  <img id="github" src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdza3R1bjJ3a3hpdGVyb3hqYXM0MzB1N2lqeTJseDdkZGY5OXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif width="500">
+  <img id="github" src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdza3R1bjJ3a3hpdGVyb3hqYXM0MzB1N2lqeTJseDdkZGY5OXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif width="600">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=35&duration=4000&pause=1000&color=30F700&background=0029FF00&width=435&lines=Anindya+Mukhopadhyay;IOS+%2C+3D+%2CWeb%2C+Blockchain;7x+Hackathon+Winner+;14x+Hackathon+Finalist)](https://git.io/typing-svg)
 
