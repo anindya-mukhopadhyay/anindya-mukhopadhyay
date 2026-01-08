@@ -2,7 +2,7 @@
  <p align="center">
   <img id="github" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21tMDlxdmhxNDdjNHA4NHI3MHFkeGRkOXp3OXI4Z2c2ZHJhM2xtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nUFNPdfvN4d3qdkepB/giphy.gif" width="500">
  
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=30F700&vCenter=true&width=435&lines=Anindya+Mukhopadhyay;IOS+%2C+3D+%2CWeb%2C+Blockchain" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="a3y6hp.gif" alt="Demo GIF" width="00">
