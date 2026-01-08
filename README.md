@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anindya-mukhopadhyay&label=Profile%20views&color=00ff00&style=flat" alt="anindya-mukhopadhyay" /> </p>
  <p align="center">
-  <img id="github" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21tMDlxdmhxNDdjNHA4NHI3MHFkeGRkOXp3OXI4Z2c2ZHJhM2xtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nUFNPdfvN4d3qdkepB/giphy.gif" width="500">
+  <img id="github" src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdza3R1bjJ3a3hpdGVyb3hqYXM0MzB1N2lqeTJseDdkZGY5OXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif width="500">
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=30F700&vCenter=true&width=435&lines=Anindya+Mukhopadhyay;IOS+%2C+3D+%2CWeb%2C+Blockchain" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=35&duration=4000&pause=1000&color=30F700&background=0029FF00&width=435&lines=Anindya+Mukhopadhyay;IOS+%2C+3D+%2CWeb%2C+Blockchain;7x+Hackathon+Winner+;14x+Hackathon+Finalist)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="a3y6hp.gif" alt="Demo GIF" width="00">
@@ -18,7 +18,7 @@
 🎮 FearRun Game – A 3D React Three Fiber survival game with FPP/TPP switch, enemy AI & immersive gameplay
 🌱 I’m currently learning: React Native, OpenCV, AI Integration, and SwiftUI
 👯 I’m looking to collaborate on: AI, ML, EdTech, Web3, and Hackathon Projects
-🤝 I’m open to help with: Web & Mobile Development, Firebase, AI Features, and Game Dev (R3F/Unity)
+🤝 I’m open to help with: Web & Mobile Development, Firebase, AI Features, and Game Dev (Unreal)
 
 🏆 Fun Fact: I’m a 7x Hackathon Winner & 13x Finalist
 ## **Tools and technologies**
