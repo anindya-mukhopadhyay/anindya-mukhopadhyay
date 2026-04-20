@@ -20,7 +20,7 @@
 👯 I’m looking to collaborate on: AI, ML, EdTech, Web3, and Hackathon Projects
 🤝 I’m open to help with: Web & Mobile Development, Firebase, AI Features, and Game Dev (Unreal)
 
-🏆 Fun Fact: I’m a 7x Hackathon Winner & 13x Finalist
+🏆 Fun Fact: I’m a 8x Hackathon Winner & 13x Finalist
 ## **Tools and technologies**
 
 
