@@ -12,7 +12,7 @@
 
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=35&duration=4000&pause=1000&color=30F700&background=0029FF00&width=435&lines=Anindya+Mukhopadhyay;IOS+%2C+3D+%2CWeb%2C+Blockchain;10x+Hackathon+Winner+;14x+Hackathon+Finalist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=35&duration=4000&pause=1000&color=30F700&background=0029FF00&width=435&lines=Anindya+Mukhopadhyay;IOS+%2C+3D+%2CWeb%2C+Blockchain;12x+Hackathon+Winner+;14x+Hackathon+Finalist)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="a3y6hp.gif" alt="Demo GIF" width="00">
