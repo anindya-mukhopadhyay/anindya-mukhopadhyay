@@ -1,7 +1,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anindya-mukhopadhyay&label=Profile%20views&color=00ff00&style=flat" alt="anindya-mukhopadhyay" /> </p>
- <p align="center">
-  <img id="github" src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdza3R1bjJ3a3hpdGVyb3hqYXM0MzB1N2lqeTJseDdkZGY5OXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif width="600">
- 
+
+<!-- Previous intro GIF preserved but hidden:
+<p align="center">
+  <img id="github" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdza3R1bjJ3a3hpdGVyb3hqYXM0MzB1N2lqeTJseDdkZGY5OXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" width="600">
+</p>
+-->
+
+<p align="center">
+
+https://github.com/anindya-mukhopadhyay/anindya-mukhopadhyay/blob/main/savefromins.com%20Mili%20ki%20nai%20ye%20videoo%F0%9F%98%8B__.__.__.__%23lypsync%20%23acting%20%23fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp%200%20720P.mp4
+
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=35&duration=4000&pause=1000&color=30F700&background=0029FF00&width=435&lines=Anindya+Mukhopadhyay;IOS+%2C+3D+%2CWeb%2C+Blockchain;10x+Hackathon+Winner+;14x+Hackathon+Finalist)](https://git.io/typing-svg)
 
 <p align="center">
